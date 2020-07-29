@@ -11,7 +11,7 @@ Love learning and playing with new technologies with a keen interest in UI and S
 
 #### Certifications 🎓
 
-- <a href="https://www.youracclaim.com/badges/92a4235e-d698-4d14-b2b9-5655ee782bf5">AWS Certified Solutions Architect</a>
-- <a href="https://www.youracclaim.com/badges/5f08da96-5cc0-450c-98db-70d0ac9841f9">AWS Certified Developer</a>
-- <a href="https://www.youracclaim.com/badges/617f88c2-fbc6-47f8-8c3a-acbf9f718e66">Oracle Certified Professional, Java 8 Programmer</a>
-- <a href="https://www.youracclaim.com/badges/d18586fc-6605-4c43-9c3c-72841406dbfa">Oracle Certified Associate, Java 8 Programmer</a>
+- <a href="https://www.youracclaim.com/badges/92a4235e-d698-4d14-b2b9-5655ee782bf5"><img align="left" width="150" height="150" src="https://github.com/kennethneary/kennethneary/blob/master/images/certs/aws-certified-solutions-architect-associate.png">AWS Certified Solutions Architect</a>
+- <a href="https://www.youracclaim.com/badges/5f08da96-5cc0-450c-98db-70d0ac9841f9"><img align="left" width="150" height="150" src="https://github.com/kennethneary/kennethneary/blob/master/images/certs/aws-certified-developer-associate.png">AWS Certified Developer</a>
+- <a href="https://www.youracclaim.com/badges/617f88c2-fbc6-47f8-8c3a-acbf9f718e66"><img align="left" width="150" height="150" src="https://github.com/kennethneary/kennethneary/blob/master/images/certs/oracle-certified-professional-java-se-8-programmer.png">Oracle Certified Professional, Java 8 Programmer</a>
+- <a href="https://www.youracclaim.com/badges/d18586fc-6605-4c43-9c3c-72841406dbfa"><img align="left" width="150" height="150" src="https://github.com/kennethneary/kennethneary/blob/master/images/certs/oracle-certified-associate-java-se-8-programmer.png">Oracle Certified Associate, Java 8 Programmer</a>
