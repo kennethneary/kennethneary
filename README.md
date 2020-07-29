@@ -9,7 +9,7 @@ Love learning and playing with new technologies with a keen interest in UI and S
 
 - <a href="https://www.linkedin.com/in/kenneth-neary-a7885596/">LinkedIn</a> 💼
 
-#### Certifications
+#### Certifications 🎓
 
 - <a href="https://www.youracclaim.com/badges/92a4235e-d698-4d14-b2b9-5655ee782bf5">AWS Certified Solutions Architect</a>
 - <a href="https://www.youracclaim.com/badges/5f08da96-5cc0-450c-98db-70d0ac9841f9">AWS Certified Developer</a>
