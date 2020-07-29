@@ -2,9 +2,9 @@
 
 #### About Me👨‍💻
 
-I'm a full stack software engineer with experience working on lots of different projects.
+I'm a full stack software engineer with experience working on many different projects
 
-Love learning and playing with new technologies with a keen interest in UI, Node.js, Spring, & AWS Serverless tech
+I really enjoy learning and playing with new technologies. Have in keen interest in Angular, Node.js, Spring, & AWS
 
 #### Find Me 💼
 
