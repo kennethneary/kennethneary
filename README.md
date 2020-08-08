@@ -4,7 +4,7 @@
 
 I'm a full stack software engineer with experience working on many different projects
 
-I really enjoy learning and playing with new technologies. Have a keen in interest in Angular, Node.js, Java, Spring, & AWS
+I really enjoy learning and playing with new technologies. Have a keen in interest in Angular, Node.js, Java, Spring, & AWS ☁️
 
 #### Find Me 💼 📬
 
@@ -20,8 +20,9 @@ I really enjoy learning and playing with new technologies. Have a keen in intere
 
 <a href="https://www.youracclaim.com/badges/d18586fc-6605-4c43-9c3c-72841406dbfa"><img width="75" height="75" src="https://github.com/kennethneary/kennethneary/blob/master/images/certs/oracle-certified-associate-java-se-8-programmer.png">Oracle Certified Associate - Java 8 Programmer</a>
 
+---
+
 #### Stats 📊
 
 ![Kenneth's github stats](https://github-readme-stats.vercel.app/api?username=kennethneary&show_icons=true&count_private=true&hide=stars,prs,contribs,issues&include_all_commits=true&theme=buefy)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethneary&layout=compact)
