@@ -4,7 +4,7 @@
 
 I'm a full stack software engineer with experience working on many different projects
 
-I really enjoy learning and playing with new technologies. Have a keen in interest in Angular, Node.js, Spring, & AWS
+I really enjoy learning and playing with new technologies. Have a keen in interest in Angular, Node.js, Java, Spring, & AWS
 
 #### Find Me 💼 📬
 
